@@ -1,7 +1,5 @@
-# student_style_CellGuardAI.py
-# Rewritten to look like a college student's code: simpler names, more casual comments.
-# Logic and functionality kept the same as original.
-# Reference: original file provided. fileciteturn0file0
+#CellGuardAI.py
+
 
 import streamlit as st
 import pandas as pd
